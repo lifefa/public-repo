@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "28EINRZZ3hgWLzACt_lPounR6gJRWn6AEJzwnIZ65QI",
+      "y": "LsqMK5HC8foEB26AdeHtn4DR8UtIYeq2TdKWh0-CMP8",
+      "kid": "teamily-deleg-test-1",
+      "use": "sig",
+      "alg": "ES256"
+    }
+  ]
+}
